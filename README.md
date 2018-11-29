@@ -1,5 +1,5 @@
-![alt text](project/project_cover.jpg)
 
+![cover_small](https://user-images.githubusercontent.com/44420637/49211320-4f3aec00-f38d-11e8-8d3f-85a5c9d6a84a.jpg)
 # Project Title
 
 One Paragraph of project description goes here
