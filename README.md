@@ -1,4 +1,4 @@
-![alt text]()
+![alt text](project/project_cover.jpg)
 
 # Project Title
 
