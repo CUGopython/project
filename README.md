@@ -1,6 +1,6 @@
 
 ![cover_small](https://user-images.githubusercontent.com/44420637/49211320-4f3aec00-f38d-11e8-8d3f-85a5c9d6a84a.jpg)
-# Project Title
+# Web Crawling Project
 
 One Paragraph of project description goes here
 
@@ -8,7 +8,9 @@ One Paragraph of project description goes here
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
+### Installation instructions
+Requirements
+
 
 What things you need to install the software and how to install them
 
@@ -34,7 +36,7 @@ until finished
 
 End with an example of getting some data out of the system or using it for a little demo
 
-## Running the tests
+## Run Instructions
 
 Explain how to run the automated tests for this system
 
@@ -54,9 +56,6 @@ Explain what these tests test and why
 Give an example
 ```
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
@@ -72,15 +71,13 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
-## Authors
+## Authors : Go Python Section 2
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Jian Huang** - *Initial work* - [jh4025](https://github.com/jh4025)
+* **Mengtao Li** - *Initial work* - [mengtaoli11](https://github.com/mengtaoli11)
+* **Siq Li** - *sl4438* - [SiqiCU](https://github.com/SiqiCU)
+* **Rui Liu** - *Initial work* - [CUliurui](https://github.com/CUliurui)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
