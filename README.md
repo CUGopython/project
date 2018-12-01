@@ -12,17 +12,18 @@ These instructions will get you a copy of the project up and running on your loc
 Requirements
 
 
-What things you need to install the software and how to install them
 
 ```
-packages: 
+Python packages: 
 requests
 bs4 
 os
-csv
 pandas
+csv
 datetime
-software:
+numpy
+
+Software:
 Foto-Mosaik-Edda
 ```
 
@@ -30,16 +31,18 @@ Foto-Mosaik-Edda
 
 A step by step series of examples that tell you how to get a development env running
 
-Say what the step will be
+The step of installing packages will be
 
 ```
-Give the example
+pip install requests
+pip install bs4
+pip install pandas
+pip install csv
+pip install numpy
 ```
-
-And repeat
-
+The step of installing software will be:
 ```
-until finished
+go to (https://fmedda.com/en/download) to download a suitable version for your computer, windows or Mac OS X
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
