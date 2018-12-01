@@ -42,7 +42,7 @@ pip install numpy
 ```
 The step of installing software will be:
 ```
-go to (https://fmedda.com/en/download) to download a suitable version for your computer, windows or Mac OS X
+go to 'https://fmedda.com/en/download' to download a suitable version for your computer, windows or Mac OS X
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
