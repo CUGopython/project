@@ -15,7 +15,15 @@ Requirements
 What things you need to install the software and how to install them
 
 ```
-Give examples
+packages: 
+requests
+bs4 
+os
+csv
+pandas
+datetime
+software:
+Foto-Mosaik-Edda
 ```
 
 ### Installing
