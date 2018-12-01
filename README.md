@@ -2,7 +2,7 @@
 ![cover_small](https://user-images.githubusercontent.com/44420637/49211320-4f3aec00-f38d-11e8-8d3f-85a5c9d6a84a.jpg)
 # Web Crawling Project
 
-One Paragraph of project description goes here
+Our project consists of 2 parts, both based on Python. In the first part, we obtain thousands of Columbia University images by crawler and then merge these images to create a mosaic image using a software called "Foto-Mosaik-Edda".  In the second part, we make a UI system for searching quant programs information. We get the quant programs information by crawler and make it a UI system by ?. In this UI, user can?
 
 ## Getting Started
 
