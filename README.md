@@ -2,16 +2,16 @@
 ![cover_small](https://user-images.githubusercontent.com/44420637/49211320-4f3aec00-f38d-11e8-8d3f-85a5c9d6a84a.jpg)
 # Web Crawling Project
 
-Our project consists of 2 parts, both based on Python. In the first part, we obtain thousands of Columbia University images by crawler and then merge these images to create a mosaic image using a software called "Foto-Mosaik-Edda".  In the second part, we make a GUI system for searching quant programs information. We get the quant programs information by crawler and make it a GUI system by tkinter and matplotlib. In this GUI, user can input a program name and the system will return a graph and some text information. In the graph, user will see historical applicants amounts and acceptance rates; in the text information, user will see applicants' mean scores, like GPA and GRE test results. We hope our project can help users to have intuition about quant programs' admission standards. 
+Our project consists of two parts. Both are based on Python. 
 
-## Getting Started
+In the first part, we obtained thousands of Columbia University images by an image crawler and then merged these images to create a image above using a software called "Foto-Mosaik-Edda". 
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+In the second part, We collected data from quant programs using web scrapping and built an interface to display our results. 
+Selecting different program, user can know about basic academic information including average GRE test scores, average GPA, and admission rate.
+
 
 ### Installation instructions
 Requirements
-
-
 
 ```
 Python packages: 
@@ -44,8 +44,8 @@ pip install matplotlib
 ```
 The step of installing software will be:
 ```
-go to 'https://fmedda.com/en/download' to download a suitable version of Foto-Mosaik-Edda for your computer
-windows or Mac OS X and then install it.
+go to 'https://fmedda.com/en/download' to download and install Foto-Mosaik-Edda for your computer
+
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
@@ -54,15 +54,16 @@ End with an example of getting some data out of the system or using it for a lit
 
 
 ```
-First Part--image crawler project
-1.run 'Download_images_whole.ipynb' to get all images by crawler.
-2.download Foto-Mosaik-Edda from website and install it.
-3.Open Foto-Mosaik-Edda and follow the instructions, use all the images which download from websites as input, and you will get a picture of Butler Library. 
+First Part--Image crawler project
+1.Run 'Download_images_whole.ipynb' to get all images by crawler.
+2.Download Foto-Mosaik-Edda from website and install it.
+3.Open Foto-Mosaik-Edda and follow the instructions,use all the images which download from websites as input, 
+and you will get a picture of Butler Library. 
 
 ```
 
 ```
-Second Part--student information of Quantnet
+Second Part--Student information of Quantnet
 
 ```
 
@@ -76,10 +77,6 @@ Fourth Part--Build an interface to displace our result
 
 ```
 
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
 
 ## Contributing
 
