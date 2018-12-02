@@ -73,7 +73,7 @@ date.csv, type.csv, score.csv and status.csv.
 **Important**
 Since QuantNet is continually update its statistis,**
 In order to run Third Part and Fourth Part correctly, please use our 
-5 csv files (date.csv,score.csv,status.csv, title.csv,type.csv)
+5 csv files under quantdata file on github(date.csv,score.csv,status.csv, title.csv,type.csv)
 on github
 
 
@@ -83,6 +83,9 @@ Third Part--Data Cleaning and Functions
 2. In this process, we standardized GPA scores and GRE scores(data cleaning part).
 3. Also we caculated the acceptance rate,GRE mean scores, and mean GPA.
 4  You will get get 'Rate.csv' , 'cleandata.csv' and 'Number.csv' as your results.
+
+
+
 ```
 
 ```
@@ -90,6 +93,10 @@ Fourth Part--Build an interface to displace our result
 1. Run 'tkinter.ipynb' to build a GUI system. 
 2. In the system, clicking different programs, user can check quant program academic requirements.
 ```
+**Important**
+Since QuantNet is continually update its statistis,**
+In order to run Third Part and Fourth Part correctly, please use our 
+3 csv files (date.csv,score.csv,status.csv, title.csv,type.csv) on github
 
 
 ## Authors : Go Python Section 2
