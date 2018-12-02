@@ -95,8 +95,8 @@ Fourth Part--Build an interface to displace our result
 ```
 **Important**
 Since QuantNet is continually update its statistics,**
-In order to run Third Part and Fourth Part correctly, please use our 
-3 csv files (date.csv,score.csv,status.csv, title.csv,type.csv) on github
+In order to run Fourth Part correctly, please use our 
+3 csv files (cleandata.csv, number.csv, rate.csv) on github
 
 
 ## Authors : Go Python Section 2
