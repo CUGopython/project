@@ -72,14 +72,16 @@ date.csv, type.csv, score.csv and status.csv.
 
 ```
 Third Part--Data Cleaning and Functions
-1. Run '?' to do data cleaning. In this process, we standardized GPA scores and GRE scores. 
-We get '?.csv' as our result.
+1. Run 'data_clean_final' to combine five csv files and do data cleaning.
+2. In this process, we standardized GPA scores and GRE scores(data cleaning part).
+3. Also we caculated the acceptance rate,GRE mean scores, and mean GPA.
+4  You will get get 'Rate.csv' , 'cleandata.csv' and 'Number.csv' as your results.
 ```
 
 ```
 Fourth Part--Build an interface to displace our result
 1. Run 'tkinter.ipynb' to build a GUI system. 
-2. In the system, clicking different programs user can check quant program academic requirements.
+2. In the system, clicking different programs, user can check quant program academic requirements.
 ```
 
 
