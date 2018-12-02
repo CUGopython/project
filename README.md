@@ -23,8 +23,10 @@ csv
 datetime
 numpy
 matplotlib
-tkinter 
+tkinter
+```
 
+```
 Software:
 Foto-Mosaik-Edda
 ```
@@ -57,45 +59,40 @@ End with an example of getting some data out of the system or using it for a lit
 First Part--Image crawler project
 1.Run 'Download_images_whole.ipynb' to get all images by crawler.
 2.Download Foto-Mosaik-Edda from website and install it.
-3.Open Foto-Mosaik-Edda and follow the instructions,use all the images which download from websites as input, 
-and you will get a picture of Butler Library. 
+3.Open Foto-Mosaik-Edda and follow the instructions,use all the images which download from websites 
+as input, and you will get a picture of Butler Library. 
 
 ```
 
 ```
 Second Part--Student information of Quantnet
-1.Run 'quantnet_get_data_and_output_csv.ipynb' to get student information in 5 csv files: title.csv, date.csv,
-type.csv, score.csv and status.csv. 
+1.Run 'quantnet_get_data_and_output_csv.ipynb' to get student information in 5 csv files: title.csv,
+date.csv, type.csv, score.csv and status.csv. 
 ```
 
 ```
 Third Part--Data Cleaning and Functions
-1. Run '?' to do data cleaning. In this process, we standardized GPA scores and GRE scores. We get '?.csv' as
-our result.
+1. Run '?' to do data cleaning. In this process, we standardized GPA scores and GRE scores. 
+We get '?.csv' as our result.
 ```
 
 ```
 Fourth Part--Build an interface to displace our result
 1. Run 'tkinter.ipynb' to build a GUI system. 
-2. In the system, follow the instruction and you can check quant program information.
+2. In the system, clicking different programs user can check quant program academic requirements.
 ```
-
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
 
 ## Authors : Go Python Section 2
 
-* **Jian Huang** - *Initial work* - [jh4025](https://github.com/jh4025)
-* **Mengtao Li** - *Initial work* - [mengtaoli11](https://github.com/mengtaoli11)
-* **Siq Li** - *sl4438* - [SiqiCU](https://github.com/SiqiCU)
-* **Rui Liu** - *Initial work* - [CUliurui](https://github.com/CUliurui)
+* **Jian Huang** - [jh4025](https://github.com/jh4025)
+* **Mengtao Li**  - [mengtaoli11](https://github.com/mengtaoli11)
+* **Siq Li** -  [SiqiCU](https://github.com/SiqiCU)
+* **Rui Liu**  - [CUliurui](https://github.com/CUliurui)
 
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
+* Free online Python courses
 * Inspiration
 
