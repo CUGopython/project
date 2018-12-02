@@ -29,9 +29,8 @@ Software:
 Foto-Mosaik-Edda
 ```
 
-### Installing
+Installing
 
-A step by step series of examples that tell you how to get a development env running
 
 The step of installing packages will be
 
@@ -54,27 +53,31 @@ End with an example of getting some data out of the system or using it for a lit
 
 
 ```
-first part--image crawler project
+First Part--image crawler project
 1.run 'Download_images_whole.ipynb' to get all images by crawler.
 2.download Foto-Mosaik-Edda from website and install it.
-3.Open Foto-Mosaik-Edda, click 'Create/edit database', then click 'add pictures -- to a new database', then choose 'img' folder, which includes 3 subfolders, columbia, columbia2 and columbia3. Here please click all 3 boxes 'Include subfolders', 'Include hidden and system files', 'Synchronize found pictures with database'. Then click 'Run'. Then click 'Beginning'.
-4.click 'Create photo mosaic', then choose 'Classic style photo mosaic'. Click 'next'. Then click 'Open', use our 'target_picture.png' as theme picture. Then click 'Save' to save your mosaic picture in a suitable place. Click 'Next' and choose database in step 3. Click 'Next', 'Next', 'Next' and 'Run'. Now you get result of our image project. We name it 'project_cover.jpg' and save it in repo.
+3.Open Foto-Mosaik-Edda and follow the instructions, use all the images which download from websites as input, and you will get a picture of Butler Library. 
+
+Second Part--student information of Quantnet
+
+
+Third Part--Data Cleaning and Functions
+
+
+Fourth Part--Build an interface to displace our result
+
+
 ```
 
 
 ## Built With
 
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors : Go Python Section 2
 
