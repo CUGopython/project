@@ -6,7 +6,8 @@ Our project consists of two parts. Both are based on Python.
 
 In the first part, we obtained thousands of Columbia University images by an image crawler and then merged these images to create a image above using a software called "Foto-Mosaik-Edda". 
 
-In the second part, We collected data from quant programs using web scrapping and built an interface to display our results. 
+In the second part, We collected data from quant programs using web scrapping from https://quantnet.com/tracker/
+and built an interface to display our results. 
 Selecting different program, user can know about basic academic information including average GRE test scores, average GPA, and admission rate.
 
 
@@ -68,6 +69,9 @@ as input, and you will get a picture of Butler Library.
 Second Part--Student information of Quantnet
 1.Run 'quantnet_get_data_and_output_csv.ipynb' to get student information in 5 csv files: title.csv,
 date.csv, type.csv, score.csv and status.csv. 
+
+**Important: Since QuantNet is continually update its statistis,***
+***in order to run Third Part and Fourth Part correctly, please use our 5 csv files on github***
 ```
 
 ```
