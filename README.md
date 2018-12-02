@@ -71,10 +71,10 @@ Second Part--Student information of Quantnet
 date.csv, type.csv, score.csv and status.csv. 
 ```
 **Important**
-**Since QuantNet is continually update its statistis,**
-**In order to run Third Part and Fourth Part correctly, please use our 
+Since QuantNet is continually update its statistis,**
+In order to run Third Part and Fourth Part correctly, please use our 
 5 csv files (date.csv,score.csv,status.csv, title.csv,type.csv)
-on github**
+on github
 
 
 ```
