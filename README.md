@@ -68,10 +68,10 @@ as input, and you will get a picture of Butler Library.
 ```
 Second Part--Student information of Quantnet
 1.Run 'quantnet_get_data_and_output_csv.ipynb' to get student information in 5 csv files: title.csv,
-date.csv, type.csv, score.csv and status.csv. 
+date.csv, type.csv, score.csv and status.csv. 5 csv files will be saved in a new file named quantdatanew
 ```
 **Important**
-Since QuantNet is continually update its statistics,
+Since QuantNet is continually updating its statistics,
 In order to run Third Part and Fourth Part correctly, please use our 
 5 csv files under quantdata file on github(date.csv,score.csv,status.csv, title.csv,type.csv)
 
@@ -85,7 +85,7 @@ Third Part--Data Cleaning and Functions
 4  You will get get 'Rate.csv' , 'cleandata.csv' and 'Number.csv' as your results.
 ```
 **Important**
-Please use your path where you saved quantdata when you run the file
+Please use your path where you saved **quantdata** when you run the file
 
 
 ```
