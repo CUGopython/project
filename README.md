@@ -57,7 +57,7 @@ End with an example of getting some data out of the system or using it for a lit
 
 ```
 First Part--Image crawler project
-1.Run 'Download_images_whole.ipynb' to get all images by crawler.
+1.Run 'Download_images_whole.ipynb', you will have have a file img which contains all the images
 2.Download Foto-Mosaik-Edda from website and install it.
 3.Open Foto-Mosaik-Edda and follow the instructions,use all the images which download from websites 
 as input, and you will get a picture of Butler Library. 
