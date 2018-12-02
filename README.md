@@ -58,14 +58,20 @@ First Part--image crawler project
 2.download Foto-Mosaik-Edda from website and install it.
 3.Open Foto-Mosaik-Edda and follow the instructions, use all the images which download from websites as input, and you will get a picture of Butler Library. 
 
+```
+
+```
 Second Part--student information of Quantnet
 
+```
 
+```
 Third Part--Data Cleaning and Functions
 
+```
 
+```
 Fourth Part--Build an interface to displace our result
-
 
 ```
 
@@ -91,4 +97,4 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 * Hat tip to anyone whose code was used
 * Inspiration
-* etc
+
