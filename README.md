@@ -44,7 +44,8 @@ pip install matplotlib
 ```
 The step of installing software will be:
 ```
-go to 'https://fmedda.com/en/download' to download a suitable version of Foto-Mosaik-Edda for your computer, windows or Mac OS X and then install it.
+go to 'https://fmedda.com/en/download' to download a suitable version of Foto-Mosaik-Edda for your computer
+windows or Mac OS X and then install it.
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
