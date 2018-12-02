@@ -64,7 +64,8 @@ and you will get a picture of Butler Library.
 
 ```
 Second Part--Student information of Quantnet
-1.Run 'quantnet_get_data_and_output_csv.ipynb' to get student information in 5 csv files: title.csv, date.csv, type.csv,  score.csv and status.csv. 
+1.Run 'quantnet_get_data_and_output_csv.ipynb' to get student information in 5 csv files: title.csv, date.csv, type.csv,  
+score.csv and status.csv. 
 ```
 
 ```
