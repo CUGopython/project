@@ -11,7 +11,7 @@ and built an interface to display our results.
 Selecting different program, user can know about basic academic information including average GRE test scores, average GPA, and admission rate.
 
 
-### Installation instructions
+## Installation instructions
 Requirements
 
 ```
